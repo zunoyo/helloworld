@@ -21,4 +21,4 @@
 
 동영상
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/-tT32VTll5M" title="Frank Ocean  - Blond - Full Album" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="600" height="360" src="https://www.youtube.com/embed/-tT32VTll5M" title="Frank Ocean  - Blond - Full Album" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
