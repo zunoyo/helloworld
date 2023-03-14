@@ -16,3 +16,9 @@
 전국 대학생 아이디어 대회
 
 [대상 수상작 발표자료](/presentation.pptx)
+
+# 동영상 삽입
+
+동영상
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/-tT32VTll5M" title="Frank Ocean  - Blond - Full Album" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
